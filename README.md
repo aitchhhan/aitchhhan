@@ -23,11 +23,11 @@
 <br/>
 <br/>
 
-![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitchhhan&show_icons=true&theme=dracula&count_private=true)
+<!-- ![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitchhhan&show_icons=true&theme=dracula&count_private=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitchhhan&layout=compact&theme=dracula)
 
-[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=aitchhhan&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats)
+<!-- [![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=aitchhhan&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats) -->
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/aitchhhan"/>
