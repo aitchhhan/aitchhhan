@@ -1,3 +1,7 @@
+## **AITCHHHAN**
+
+### A developer who realizes the value of intellectual joy through a chain of thoughts, one leading to the next.
+
 <div>
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-%23b07219?style=flat-square&logo=java&logoColor=white"/>
