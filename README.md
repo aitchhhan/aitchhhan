@@ -1,3 +1,4 @@
+<div>
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Java-%23b07219?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -12,7 +13,6 @@
 <img src="https://img.shields.io/badge/Amazon%20Lightsail-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 <!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 <!-- Others -->
