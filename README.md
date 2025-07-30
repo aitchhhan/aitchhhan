@@ -4,7 +4,7 @@
 <br/>
 <div>
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-%23b07219?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23b07219?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <br/>
