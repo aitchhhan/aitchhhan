@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <br/>
   <!-- Infra -->
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazonS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20CloudFront-F9A03C?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20Lightsail-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   <br/>
