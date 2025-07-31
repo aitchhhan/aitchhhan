@@ -1,4 +1,4 @@
-## **AITCHHHAN**
+## **Mingyu Han**
 
 ### A developer who realizes the value of intellectual joy through a chain of thoughts, one leading to the next.
 <br/>
