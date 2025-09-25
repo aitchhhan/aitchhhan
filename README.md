@@ -29,7 +29,7 @@
 
 <!-- ![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitchhhan&show_icons=true&theme=dracula&count_private=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitchhhan&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitchhhan&layout=compact&theme=dracula&cache_seconds=0)
 
 <!-- [![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=aitchhhan&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats) -->
 
